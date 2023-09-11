@@ -1,14 +1,19 @@
 Dalam React Native, props adalah cara untuk mengirimkan data dari komponen induk ke komponen anak. Selain data, kita juga dapat mengirimkan komponen itu sendiri sebagai prop. Ini disebut "Passing Component". Passing component memungkinkan kita untuk menyusun komponen yang lebih dinamis dan dapat digunakan ulang.
 
-**Passing Component:** 
+**Passing Component:**
 Passing component adalah ketika kita mengirimkan suatu komponen sebagai nilai prop ke komponen lain, sehingga komponen penerima bisa merender dan memanipulasi komponen tersebut.
 
-**Contoh Kode:** 
+**Contoh Kode:**
+
+<iframe src="https://snack.expo.dev/@doltons/props-component" height="500" width="100%"></iframe>
+
 Misalkan kita memiliki komponen `Header` yang akan ditampilkan di beberapa layar yang berbeda:
 
+Path: `components/Header.js`
+
 ```jsx
-import React from 'react';
-import { View, Text } from 'react-native';
+import React from "react";
+import { View, Text } from "react-native";
 
 const Header = ({ title, children }) => {
   return (
@@ -17,7 +22,7 @@ const Header = ({ title, children }) => {
       {children}
     </View>
   );
-}
+};
 
 export default Header;
 ```
@@ -26,10 +31,12 @@ Di sini, kita memiliki prop `title` dan juga menggunakan `{props.children}` untu
 
 Kemudian, kita dapat menggunakan komponen `Header` di beberapa layar dengan cara yang berbeda:
 
+Path: `App.js`
+
 ```jsx
-import React from 'react';
-import { View } from 'react-native';
-import Header from './Header';
+import React from "react";
+import { View } from "react-native";
+import Header from "./Header";
 
 const ScreenA = () => {
   return (
@@ -38,7 +45,7 @@ const ScreenA = () => {
       {/* Konten layar lainnya */}
     </View>
   );
-}
+};
 
 const ScreenB = () => {
   return (
@@ -49,10 +56,22 @@ const ScreenB = () => {
       {/* Konten layar lainnya */}
     </View>
   );
-}
+};
+
+const App = () => {
+  return (
+    <View>
+      <ScreenA />
+      <ScreenB />
+    </View>
+  );
+};
+
+export default App;
 ```
 
 **Penjelasan Kode:**
+
 - Kita mengimpor komponen `Header` yang telah kita buat sebelumnya.
 - Di `ScreenA`, kita hanya meneruskan prop `title` ke komponen `Header`.
 - Di `ScreenB`, kita meneruskan prop `title` serta menambahkan elemen teks sebagai child di dalam komponen `Header`.

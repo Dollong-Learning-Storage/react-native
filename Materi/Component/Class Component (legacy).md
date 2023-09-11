@@ -11,44 +11,9 @@ Class Component merupakan salah satu tipe komponen dalam React Native yang digun
 2. **Lebih Banyak Boilerplate:** Diperlukan lebih banyak kode boilerplate untuk membuat sebuah class component.
 3. **Kinerja dan Optimalisasi:** Class Component cenderung memiliki performa yang lebih rendah daripada Functional Component karena overhead yang lebih tinggi.
 
-Contoh Kode Class Component
-```jsx
-import React, { Component } from 'react';
-import { View, Text } from 'react-native';
+**Contoh Kode Class Component :**
 
-class ClassComponentExample extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      count: 0,
-    };
-  }
-
-  componentDidMount() {
-    console.log('Component did mount');
-  }
-
-  componentDidUpdate() {
-    console.log('Component did update');
-  }
-
-  componentWillUnmount() {
-    console.log('Component will unmount');
-  }
-
-  render() {
-    return (
-      <View>
-        <Text>Halo, ini adalah Class Component!</Text>
-        <Text>Count: {this.state.count}</Text>
-      </View>
-    );
-  }
-}
-
-export default ClassComponentExample;
-
-```
+<iframe src="https://snack.expo.dev/@doltons/class-component" height="500" width="100%"></iframe>
 
 **Penggunaan dan Penjelasan Kode:**
 

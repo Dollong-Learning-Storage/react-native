@@ -6,10 +6,13 @@ Komponen View adalah salah satu komponen dasar dalam React Native yang digunakan
 2. **Pengaturan Tata Letak:** View memungkinkan untuk mengatur tata letak dan posisi elemen-elemen di dalamnya.
 3. **Styling:** Anda dapat memberikan gaya (style) seperti warna latar belakang, margin, padding, dan lainnya kepada komponen View.
 
-**Contoh Kode:** 
-```jsx
-import React from 'react';
-import { View, Text } from 'react-native';
+**Contoh Kode:**
+
+<iframe src="https://snack.expo.dev/@doltons/view-component" height="500" width="100%" title="View Example"></iframe>
+
+<!-- ```jsx
+import React from "react";
+import { View, Text } from "react-native";
 
 const ViewExample = () => {
   return (
@@ -18,10 +21,10 @@ const ViewExample = () => {
       <Text>Ini adalah contoh penggunaan komponen View.</Text>
     </View>
   );
-}
+};
 
 export default ViewExample;
-```
+``` -->
 
 **Penjelasan Kode:**
 

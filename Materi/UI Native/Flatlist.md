@@ -4,7 +4,9 @@ Dalam pengembangan aplikasi React Native, sering kali Anda perlu menampilkan daf
 
 **Contoh Kode:**
 
-```jsx
+<iframe src="https://snack.expo.dev/@doltons/flatlist-component" height="500" width="100%" title="Flatlist Example"></iframe>
+
+<!-- ```jsx
 import React from 'react';
 import { View, FlatList, Text, StyleSheet } from 'react-native';
 
@@ -46,7 +48,7 @@ const styles = StyleSheet.create({
 });
 
 export default FlatListExample;
-```
+``` -->
 
 **Penjelasan Kode:**
 
@@ -56,10 +58,10 @@ export default FlatListExample;
 
 ## Perbedaan Scrollview dan Flatlist
 
-**ScrollView:** 
+**ScrollView:**
 ScrollView adalah komponen yang memungkinkan kamu untuk membuat daerah scrollable (dapat di-scroll) yang bisa berisi berbagai macam elemen UI, termasuk teks, gambar, dan komponen lain. Saat kamu menggunakan ScrollView, semua konten yang ada di dalamnya akan segera dirender, tidak peduli seberapa besar daftarnya. Ini bisa menjadi masalah jika daftar elemennya sangat besar, karena semua elemen akan dimuat sekaligus, bahkan jika beberapa elemen tidak terlihat di layar.
 
-**FlatList:** 
+**FlatList:**
 FlatList adalah solusi yang lebih canggih untuk daftar scrollable dalam React Native. Ini adalah komponen yang dioptimalkan untuk menangani daftar panjang dengan efisien. FlatList hanya akan merender elemen yang terlihat pada layar, dan secara dinamis memuat dan menghapus elemen saat kamu melakukan scroll. Ini membuat penggunaan memori lebih efisien dan menghindari masalah performa yang mungkin timbul jika menggunakan ScrollView.
 
 **Perbedaan Utama:**

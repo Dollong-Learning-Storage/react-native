@@ -8,35 +8,7 @@ Functional Component merupakan salah satu jenis komponen dalam React Native yang
 
 **Contoh Kode Functional Component:**
 
-```jsx
-import React, { useState, useEffect } from 'react';
-import { View, Text } from 'react-native';
-
-const FunctionalComponentExample = (props) => {
-  const [count, setCount] = useState(0);
-
-  useEffect(() => {
-    console.log('Component did mount');
-    return () => {
-      console.log('Component will unmount');
-    };
-  }, []);
-
-  useEffect(() => {
-    console.log('Component did update');
-  }, [count]);
-
-  return (
-    <View>
-      <Text>Halo, ini adalah Functional Component!</Text>
-      <Text>Count: {count}</Text>
-    </View>
-  );
-}
-
-export default FunctionalComponentExample;
-
-```
+<iframe src="https://snack.expo.dev/@doltons/functional-component" height="500" width="100%"></iframe>
 
 **Penggunaan dan Penjelasan Kode:**
 

@@ -1,47 +1,42 @@
 Pada React Native, event handling adalah cara kita merespons aksi yang dilakukan oleh pengguna terhadap elemen UI. Salah satu event handling yang umum digunakan adalah `onPress`. Event `onPress` digunakan untuk menangkap ketika pengguna menekan (klik) elemen tertentu, seperti tombol.
 
-**Fungsi dan Kegunaan onPress:** 
+**Fungsi dan Kegunaan onPress:**
 Event `onPress` memberi Anda kemampuan untuk merespons tindakan pengguna secara interaktif. Ketika pengguna menekan elemen dengan event `onPress`, Anda dapat mengeksekusi kode tertentu, misalnya untuk memicu perubahan tampilan, memanggil fungsi, atau menavigasi antarmuka pengguna.
 
 **Contoh Kode:**
 
-```jsx
-import React from 'react';
-import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+<iframe src="https://snack.expo.dev/@doltons/handle-onpress" height="500" width="100%"></iframe>
 
-const ButtonExample = () => {
-  const handlePress = () => {
-    alert('Tombol telah ditekan!');
-  };
+```jsx
+import { useState, useEffect } from "react";
+import { View, Text, Button } from "react-native";
+
+const FunctionalComponentExample = (props) => {
+  const [count, setCount] = useState(0);
+
+  const incrementCount = () => setCount(count + 1);
+
+  useEffect(() => {
+    console.log("Component did mount");
+    return () => {
+      console.log("Component will unmount");
+    };
+  }, []);
+
+  useEffect(() => {
+    console.log("Component did update");
+  }, [count]);
 
   return (
-    <View style={styles.container}>
-      <TouchableOpacity onPress={handlePress} style={styles.button}>
-        <Text style={styles.buttonText}>Tekan Saya</Text>
-      </TouchableOpacity>
+    <View>
+      <Text>Halo, ini adalah Functional Component!</Text>
+      <Text>Count: {count}</Text>
+      <Button title="+" onPress={incrementCount} />
     </View>
   );
-}
+};
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#ffffff',
-  },
-  button: {
-    backgroundColor: '#3498db',
-    padding: 10,
-    borderRadius: 5,
-  },
-  buttonText: {
-    color: '#ffffff',
-    fontSize: 18,
-  },
-});
-
-export default ButtonExample;
+export default FunctionalComponentExample;
 ```
 
 **Penjelasan Kode:**

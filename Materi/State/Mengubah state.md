@@ -5,16 +5,16 @@ Mengubah state merupakan salah satu aspek penting dalam pengembangan aplikasi Re
 **Proses Mengubah State:**
 
 1. **Membuat State:** Pertama, kamu perlu mendefinisikan state dalam komponenmu. Ini biasanya dilakukan dalam constructor atau menggunakan React Hooks seperti `useState`.
-    
 2. **Mengubah State:** Untuk mengubah state, kamu perlu menggunakan fungsi yang disediakan oleh React. Jangan pernah langsung mengubah state secara langsung, karena hal ini dapat menyebabkan masalah dalam siklus rendering.
-    
 3. **Re-rendering:** Setelah state berubah, React akan memeriksa perbedaan antara state baru dan state sebelumnya. Jika ada perbedaan, komponen akan dirender ulang dengan menggunakan data state yang baru.
 
 **Contoh kode:**
 
-```jsx
-import React, { useState } from 'react';
-import { View, Text, Button, StyleSheet } from 'react-native';
+<iframe src="https://snack.expo.dev/@doltons/setstate" height="500" width="100%"></iframe>
+
+<!-- ```jsx
+import React, { useState } from "react";
+import { View, Text, Button, StyleSheet } from "react-native";
 
 const StateExample = () => {
   const [count, setCount] = useState(0);
@@ -29,10 +29,10 @@ const StateExample = () => {
       <Button title="Tambah" onPress={increaseCount} />
     </View>
   );
-}
+};
 
 export default StateExample;
-```
+``` -->
 
 **Penjelasan Kode:**
 

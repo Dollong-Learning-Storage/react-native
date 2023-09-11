@@ -4,13 +4,15 @@ Dalam React Native, props adalah cara untuk mengirimkan data dari komponen induk
 
 **Contoh Penggunaan Props:**
 
+<iframe src="https://snack.expo.dev/@doltons/props-data" height="500" width="100%"></iframe>
+
 ```jsx
-import React from 'react';
-import { View, Text } from 'react-native';
+import React from "react";
+import { View, Text } from "react-native";
 
 const Greeting = (props) => {
   return <Text>Halo, {props.name}!</Text>;
-}
+};
 
 const App = () => {
   return (
@@ -19,9 +21,7 @@ const App = () => {
       <Greeting name="Budi" />
     </View>
   );
-}
+};
 
 export default App;
 ```
-
-Dengan props, kita bisa mengirimkan data dari komponen induk ke komponen anak, sehingga kita bisa menghasilkan variasi tampilan atau perilaku yang berbeda berdasarkan data yang dikirimkan. Hal ini membuat komponen kita menjadi lebih dinamis dan mudah digunakan kembali dalam berbagai konteks.

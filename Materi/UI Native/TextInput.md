@@ -8,7 +8,9 @@ Komponen Input merupakan salah satu komponen yang penting dalam pembangunan anta
 
 **Contoh Kode:**
 
-```jsx
+<iframe src="https://snack.expo.dev/@doltons/textinput-component" height="500" width="100%" title="TextInput Example"></iframe>
+
+<!-- ```jsx
 import React, { useState } from 'react';
 import { View, TextInput, Text } from 'react-native';
 
@@ -33,4 +35,4 @@ const InputExample = () => {
 }
 
 export default InputExample;
-```
+``` -->
