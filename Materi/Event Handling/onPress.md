@@ -1,7 +1,7 @@
 Pada React Native, event handling adalah cara kita merespons aksi yang dilakukan oleh pengguna terhadap elemen UI. Salah satu event handling yang umum digunakan adalah `onPress`. Event `onPress` digunakan untuk menangkap ketika pengguna menekan (klik) elemen tertentu, seperti tombol.
 
 **Fungsi dan Kegunaan onPress:**
-Event `onPress` memberi Anda kemampuan untuk merespons tindakan pengguna secara interaktif. Ketika pengguna menekan elemen dengan event `onPress`, Anda dapat mengeksekusi kode tertentu, misalnya untuk memicu perubahan tampilan, memanggil fungsi, atau menavigasi antarmuka pengguna.
+Event `onPress` memberi Kamu kemampuan untuk merespons tindakan pengguna secara interaktif. Ketika pengguna menekan elemen dengan event `onPress`, Kamu dapat mengeksekusi kode tertentu, misalnya untuk memicu perubahan tampilan, memanggil fungsi, atau menavigasi antarmuka pengguna.
 
 **Contoh Kode:**
 
@@ -47,4 +47,4 @@ export default FunctionalComponentExample;
 - Dalam contoh ini, ketika tombol ditekan, kita memanggil fungsi `alert` untuk menampilkan pesan.
 - Gaya (style) diterapkan pada elemen `TouchableOpacity` untuk memberikan tampilan tombol yang lebih menarik.
 
-Event handling `onPress` memungkinkan Anda untuk memberikan interaksi yang responsif kepada pengguna ketika mereka berinteraksi dengan elemen UI. Dalam contoh ini, pesan akan muncul ketika tombol ditekan.
+Event handling `onPress` memungkinkan Kamu untuk memberikan interaksi yang responsif kepada pengguna ketika mereka berinteraksi dengan elemen UI. Dalam contoh ini, pesan akan muncul ketika tombol ditekan.
