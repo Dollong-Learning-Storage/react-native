@@ -13,7 +13,7 @@
    B. Mudah dikelola dalam proyek dengan banyak elemen.
    C. Tidak perlu mengimpor StyleSheet.
    D. Cocok untuk pengulangan elemen dengan style yang sama.
-4. Apa yang harus Anda lakukan jika Anda ingin mengatur warna latar belakang elemen menjadi `lightblue` menggunakan **Inline Style**?
+4. Apa yang harus Kamu lakukan jika Kamu ingin mengatur warna latar belakang elemen menjadi `lightblue` menggunakan **Inline Style**?
    A. <View style={{ background: "lightblue" }}>
    B. <View style={{ backgroundColor: "lightblue" }}>
    C. <View style={{ bg: "lightblue" }}>
