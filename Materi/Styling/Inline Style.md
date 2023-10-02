@@ -1,7 +1,7 @@
-Dalam React Native, Anda dapat menerapkan gaya (style) ke elemen-elemen UI menggunakan dua metode utama: Inline Style dan StyleSheet. Inline Style adalah cara langsung menetapkan gaya ke komponen melalui properti. Ini cocok untuk kasus-kasus sederhana, tetapi untuk proyek yang lebih besar dan kompleks, penggunaan StyleSheet lebih direkomendasikan.
+Dalam React Native, Kamu dapat menerapkan gaya (style) ke elemen-elemen UI menggunakan dua metode utama: Inline Style dan StyleSheet. Inline Style adalah cara langsung menetapkan gaya ke komponen melalui properti. Ini cocok untuk kasus-kasus sederhana, tetapi untuk proyek yang lebih besar dan kompleks, penggunaan StyleSheet lebih direkomendasikan.
 
 **Inline Style:**
-Inline Style adalah cara menerapkan style langsung ke komponen melalui properti `style`. Anda mengirimkan objek gaya langsung ke properti `style` dan mendefinisikan properti style seperti `backgroundColor`, `fontSize`, dan lainnya.
+Inline Style adalah cara menerapkan style langsung ke komponen melalui properti `style`. Kamu mengirimkan objek gaya langsung ke properti `style` dan mendefinisikan properti style seperti `backgroundColor`, `fontSize`, dan lainnya.
 
 **Contoh Kode:**
 
@@ -35,4 +35,4 @@ export default InlineStyleExample;
 - Sulit Dikelola: Pada proyek besar, manajemen gaya bisa menjadi rumit dan sulit dikelola.
 - Kurang Reusable: Gaya tidak dapat digunakan kembali pada komponen lain.
 
-Meskipun Inline Style bisa digunakan, lebih direkomendasikan untuk menggunakan `StyleSheet` ketika Anda menghadapi proyek yang lebih besar dan kompleks.
+Meskipun Inline Style bisa digunakan, lebih direkomendasikan untuk menggunakan `StyleSheet` ketika Kamu menghadapi proyek yang lebih besar dan kompleks.
