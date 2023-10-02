@@ -5,7 +5,7 @@ Komponen Button adalah salah satu komponen dasar dalam React Native yang digunak
 **Fungsi dan Kegunaan:**
 
 1. **Interaksi Pengguna:** Tombol memungkinkan pengguna untuk melakukan tindakan tertentu, seperti mengirim formulir, memulai proses, atau berpindah ke halaman lain.
-2. **Tindakan Pemicu:** Anda dapat menghubungkan fungsi atau tindakan khusus ke tombol yang akan dijalankan saat tombol ditekan.
+2. **Tindakan Pemicu:** Kamu dapat menghubungkan fungsi atau tindakan khusus ke tombol yang akan dijalankan saat tombol ditekan.
 3. **Tampilan Visual:** Tombol biasanya memiliki tampilan yang berbeda ketika dalam keadaan normal dan ketika dihover atau ditekan.
 
 ## Touchable Opacity:

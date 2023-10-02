@@ -1,4 +1,4 @@
-Dalam pengembangan aplikasi React Native, sering kali Anda perlu menampilkan daftar data yang panjang, seperti daftar artikel, daftar produk, atau pesan dalam sebuah chat. Komponen FlatList merupakan solusi yang efisien untuk menangani tugas ini dengan baik.
+Dalam pengembangan aplikasi React Native, sering kali Kamu perlu menampilkan daftar data yang panjang, seperti daftar artikel, daftar produk, atau pesan dalam sebuah chat. Komponen FlatList merupakan solusi yang efisien untuk menangani tugas ini dengan baik.
 
 **Fungsi dan Kegunaan:** Komponen FlatList dirancang khusus untuk mengatur dan merender daftar panjang data. Ini membantu mengoptimalkan kinerja tampilan, karena hanya merender elemen yang terlihat di layar saat digunakan.
 

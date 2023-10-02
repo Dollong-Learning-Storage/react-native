@@ -1,9 +1,9 @@
-Komponen Image digunakan dalam React Native untuk menampilkan gambar di antarmuka pengguna. Ini memungkinkan Anda menampilkan gambar dari sumber lokal maupun publik.
+Komponen Image digunakan dalam React Native untuk menampilkan gambar di antarmuka pengguna. Ini memungkinkan Kamu menampilkan gambar dari sumber lokal maupun publik.
 
 **Fungsi dan Kegunaan:**
 
 1. **Menampilkan Gambar:** Komponen Image digunakan untuk menampilkan gambar di dalam aplikasi.
-2. **Optimalisasi Tampilan:** Anda dapat mengatur ukuran, aspek rasio, dan penggunaan caching untuk mengoptimalkan tampilan gambar.
+2. **Optimalisasi Tampilan:** Kamu dapat mengatur ukuran, aspek rasio, dan penggunaan caching untuk mengoptimalkan tampilan gambar.
 3. **Sumber Gambar:** Image mendukung berbagai sumber gambar, termasuk gambar lokal di dalam proyek dan gambar yang diambil dari URL.
 
 **Contoh Kode:**

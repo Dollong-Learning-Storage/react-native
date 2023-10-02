@@ -1,10 +1,10 @@
-Komponen Text adalah salah satu komponen dasar dalam React Native yang digunakan untuk menampilkan teks di antarmuka pengguna. Anda dapat menggunakan komponen Text untuk menampilkan berbagai pesan, judul, paragraf, dan lainnya.
+Komponen Text adalah salah satu komponen dasar dalam React Native yang digunakan untuk menampilkan teks di antarmuka pengguna. Kamu dapat menggunakan komponen Text untuk menampilkan berbagai pesan, judul, paragraf, dan lainnya.
 
 **Fungsi dan Kegunaan:**
 
 1. **Menampilkan Teks:** Komponen Text digunakan untuk menampilkan teks pada layar perangkat.
-2. **Styling Teks:** Anda dapat memberikan gaya (style) seperti ukuran font, warna, tebal, dan lainnya kepada teks yang ditampilkan.
-3. **Penyusunan Teks:** Anda dapat mengatur penyusunan teks seperti perataan (alignment), penjajaran (justification), dan pemutusan kata (line breaks).
+2. **Styling Teks:** Kamu dapat memberikan gaya (style) seperti ukuran font, warna, tebal, dan lainnya kepada teks yang ditampilkan.
+3. **Penyusunan Teks:** Kamu dapat mengatur penyusunan teks seperti perataan (alignment), penjajaran (justification), dan pemutusan kata (line breaks).
 
 <iframe src="https://snack.expo.dev/@doltons/text-component" height="500" width="100%" title="Text Example"></iframe>
 
