@@ -1,4 +1,0 @@
-
-```bash
-Install React Native
-```

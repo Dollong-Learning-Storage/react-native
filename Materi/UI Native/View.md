@@ -32,7 +32,7 @@ export default ViewExample;
 - Deklarasikan komponen `ViewExample` sebagai sebuah fungsi.
 - Dalam `return`, kita mengembalikan komponen View yang berisi dua elemen `<Text>`. Elemen ini diatur di dalam View untuk mengelompokkan mereka.
 - Pada komponen View, kita memberikan style menggunakan properti `style`. Objek style didefinisikan dalam `styles` menggunakan `StyleSheet.create()`.
-- Dalam contoh ini, style `container` memiliki flex 1 (mengisi seluruh ruang yang tersedia), posisi di tengah (`justifyContent` dan `alignItems`), serta warna latar belakang abu-abu muda.
+- Dalam contoh ini, style `container` memiliki flex 1 (mengisi seluruh ruang yang tersediA., posisi di tengah (`justifyContent` dan `alignItems`), serta warna latar belakang abu-abu muda.
 - Style `text` digunakan untuk mengatur ukuran font dan margin bawah pada elemen teks.
 
 Dengan menggunakan komponen View, Kamu dapat mengatur tata letak dan pengelompokan elemen-elemen UI dengan lebih terstruktur dan mudah dikendalikan.

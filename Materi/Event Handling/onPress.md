@@ -7,7 +7,7 @@ Event `onPress` memberi Kamu kemampuan untuk merespons tindakan pengguna secara 
 
 <iframe src="https://snack.expo.dev/@doltons/handle-onpress" height="500" width="100%"></iframe>
 
-```jsx
+<!-- ```jsx
 import { useState, useEffect } from "react";
 import { View, Text, Button } from "react-native";
 
@@ -37,7 +37,7 @@ const FunctionalComponentExample = (props) => {
 };
 
 export default FunctionalComponentExample;
-```
+``` -->
 
 **Penjelasan Kode:**
 

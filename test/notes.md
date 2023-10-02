@@ -1,0 +1,5 @@
+- Rapihkan props, state dan asyncstore menjadi satu folder yang bernama Data - canceled
+- video untuk intro - done
+- quiz untuk component - done
+- async storage - on progress
+- video untuk instalation

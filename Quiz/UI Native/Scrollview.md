@@ -4,12 +4,12 @@
    C. ScrollView dapat digunakan untuk menggeser konten hanya jika konten tersebut lebih besar dari ukuran ScrollView.
    D. ScrollView dapat digunakan untuk menggeser konten apa pun, terlepas dari ukurannya.
 2. Apa tujuan utama penggunaan ScrollView di React Native?
-   a) Membuat tampilan yang tidak dapat digulir.
+   A. Membuat tampilan yang tidak dapat digulir.
    b) Membuat daftar item yang dapat digulir.
    c) Mengatur tata letak komponen di dalam aplikasi.
    d) Menambahkan gambar latar belakang ke layar.
 3. Apa yang harus Kamu lakukan jika konten dalam ScrollView lebih panjang daripada area tampilan ScrollView itu sendiri?
-   a) Menggunakan komponen ScrollView secara otomatis dapat menangani hal ini.
+   A. Menggunakan komponen ScrollView secara otomatis dapat menangani hal ini.
    b) Menambahkan prop scrollEnabled dan mengaturnya menjadi true.
    c) Menambahkan prop contentContainerStyle untuk mengatur ukuran konten yang lebih besar.
    d) Tidak mungkin membuat konten yang lebih panjang daripada area tampilan ScrollView.
