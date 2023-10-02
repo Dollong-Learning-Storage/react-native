@@ -3,7 +3,7 @@ Class Component merupakan salah satu tipe komponen dalam React Native yang digun
 **Kelebihan dan Kekurangan Class Component:** **Kelebihan:**
 
 1. **Mempunyai State dan Lifecycle Methods:** Class Component memungkinkan penggunaan `state` untuk menyimpan data dinamis dan `lifecycle methods` untuk mengatur perilaku komponen pada berbagai fase siklus hidupnya.
-2. **Legacy Codebase:** Jika Anda bekerja pada proyek lama yang menggunakan pendekatan class component, Anda akan menemukan lebih banyak contoh kode dalam format class component.
+2. **Legacy Codebase:** Jika Kamu bekerja pada proyek lama yang menggunakan pendekatan class component, Kamu akan menemukan lebih banyak contoh kode dalam format class component.
 
 **Kekurangan:**
 
