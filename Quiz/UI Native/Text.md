@@ -1,14 +1,14 @@
-1. Apa yang bisa Anda lakukan dengan komponen Text dalam React Native?
+1. Apa yang bisa Kamu lakukan dengan komponen Text dalam React Native?
    a. Menampilkan teks saja
    b. Menambahkan efek animasi
    c. Menampilkan video
    d. Menggambar bentuk geometris
-2. Apa yang akan terjadi jika Anda mencoba untuk menampilkan teks tanpa menggunakan komponen <Text> dalam React Native?
+2. Apa yang akan terjadi jika Kamu mencoba untuk menampilkan teks tanpa menggunakan komponen <Text> dalam React Native?
    a. Teks akan ditampilkan dengan benar.
    b. Aplikasi akan mengabaikan teks tersebut.
    c. Aplikasi akan menghasilkan pesan error atau crash.
    d. Teks akan muncul dengan style default.
-3. Bagaimana Anda memperbaiki kesalahan saat mencoba menampilkan teks tanpa komponen <Text>?
+3. Bagaimana Kamu memperbaiki kesalahan saat mencoba menampilkan teks tanpa komponen <Text>?
    a. Menghapus seluruh teks tersebut.
    b. Mengubah semua komponen <Text> menjadi <View>.
    c. Membungkus teks dengan komponen <Text>.

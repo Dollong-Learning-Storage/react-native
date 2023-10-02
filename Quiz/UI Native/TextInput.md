@@ -23,7 +23,7 @@ const InputExample = () => {
 
   return (
     <View>
-      <Text>Masukkan Nama Anda:</Text>
+      <Text>Masukkan Nama Kamu:</Text>
       <TextInput
         placeholder="Contoh: John Doe"
         onChangeText={handleInputChange}
