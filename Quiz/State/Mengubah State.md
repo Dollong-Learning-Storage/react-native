@@ -1,3 +1,5 @@
+## Easy
+
 1. Apa yang dimaksud dengan state dalam konteks React Native?  
    A. State adalah representasi tampilan komponen.
    B. State adalah data yang dapat berubah dalam komponen yang memengaruhi tampilan.
@@ -8,17 +10,25 @@
    B. Agar komponen bisa dirender satu kali saja.
    C. Agar komponen bisa merespons perubahan data dan interaksi pengguna.
    D. Agar komponen bisa memiliki properti.
-3. Mengapa tidak boleh mengubah state secara langsung tanpa menggunakan fungsi yang disediakan oleh React?
-   A. Karena mengubah state secara langsung lebih efisien.
-   B. Karena itu adalah cara yang benar untuk mengubah state.
-   C. Karena hal itu dapat menyebabkan masalah dalam siklus rendering dan tidak memicu re-rendering komponen.
-   D. Karena komponen tidak perlu dirender ulang.
-4. Apa yang terjadi setelah state berubah dalam komponen React Native?
+
+Jawaban :
+
+1. A
+2. C
+
+## Medium
+
+1. Apa yang terjadi setelah state berubah dalam komponen React Native?
    A. Komponen akan dirender ulang dengan data state yang baru.
    B. Komponen akan tetap dalam keadaan yang sama.
    C. Komponen akan otomatis keluar dari aplikasi.
    D. Komponen akan mengalami error.
-5. Bagaimana cara mengubah state dalam contoh kode yang diberikan?
+
+Jawaban:
+
+1. A
+
+## Intermediate
 
 ```jsx
 const StateExample = () => {
@@ -38,15 +48,18 @@ const StateExample = () => {
 };
 ```
 
-A. Dengan mengubah variabel langsung, misalnya count = count + 1.
-B. Dengan menggunakan fungsi setCount.
-C. Dengan membuat state baru.
-D. Dengan menggunakan console.log.
+1. Bagaimana cara mengubah state dalam contoh kode yang diberikan?
+   A. Dengan mengubah variabel langsung, misalnya count = count + 1.
+   B. Dengan menggunakan fungsi setCount.
+   C. Dengan membuat state baru.
+   D. Dengan menggunakan console.log.
+2. Mengapa tidak boleh mengubah state secara langsung tanpa menggunakan fungsi yang disediakan oleh React?
+   A. Karena mengubah state secara langsung lebih efisien.
+   B. Karena itu adalah cara yang benar untuk mengubah state.
+   C. Karena hal itu dapat menyebabkan masalah dalam siklus rendering dan tidak memicu re-rendering komponen.
+   D. Karena komponen tidak perlu dirender ulang.
 
 Jawaban :
 
-1. A
+1. B
 2. C
-3. C
-4. A
-5. B

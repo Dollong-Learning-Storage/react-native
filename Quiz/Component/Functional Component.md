@@ -2,9 +2,9 @@
 
 1. Apa yang membedakan antara functional component dan class component dalam React Native?
    A. Functional component menggunakan "class" keyword, sedangkan class component menggunakan "function" keyword.
-   B) Functional component merupakan versi terbaru dari class component.
-   C) Functional component adalah fungsi JavaScript biasa, sedangkan class component merupakan class JavaScript yang diwarisi dari React.Component.
-   D) Functional component hanya digunakan untuk state management, sedangkan class component hanya digunakan untuk rendering tampilan.
+   B. Functional component merupakan versi terbaru dari class component.
+   C. Functional component adalah fungsi JavaScript biasa, sedangkan class component merupakan class JavaScript yang diwarisi dari React.Component.
+   D. Functional component hanya digunakan untuk state management, sedangkan class component hanya digunakan untuk rendering tampilan.
 2. Manakah di bawah ini penggunaan functional component dalam React Native
    A..
 
@@ -23,7 +23,7 @@
    export default MyComponent;
    ```
 
-   B).
+   B..
 
    ```jsx
    import React from "react";
@@ -42,7 +42,7 @@
    export default MyComponent;
    ```
 
-   C).
+   C..
 
    ```jsx
    import React from "react";
@@ -59,7 +59,7 @@
    export default MyComponent;
    ```
 
-   D).
+   D..
 
    ```jsx
    import React, { Component } from "react";
@@ -86,9 +86,9 @@ jawaban:
 
 1. Manakah di bawah ini cara mengirimkan prop ke functional component?
    A. Dengan menggunakan properti "props" langsung di dalam functional component.
-   B) Dengan mendefinisikan prop di dalam fungsi functional component.
-   C) Dengan menggunakan "this.props" di dalam functional component.
-   D) Functional component tidak dapat menerima prop.
+   B. Dengan mendefinisikan prop di dalam fungsi functional component.
+   C. Dengan menggunakan "this.props" di dalam functional component.
+   D. Functional component tidak dapat menerima prop.
 2. Manakah penggunaan prop di dalam functional component.
    A..
 
@@ -99,7 +99,7 @@ jawaban:
 
    ```
 
-   B).
+   B..
 
    ```jsx
    function Greeting(props) {
@@ -107,7 +107,7 @@ jawaban:
    }
    ```
 
-   C).
+   C..
 
    ```jsx
    function Greeting() {
@@ -115,7 +115,7 @@ jawaban:
    }
    ```
 
-   D).
+   D..
 
    ```jsx
    const Greeting = (name) => {

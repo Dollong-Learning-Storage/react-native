@@ -1,3 +1,5 @@
+## Easy
+
 1. Apa fungsi dari state dalam React Native?
    A. Untuk menyimpan data yang tidak berubah.
    B. Untuk menyimpan dan mengelola data yang dapat berubah di komponen.
@@ -8,7 +10,15 @@
    B. useState
    C. setState
    D. state
-3. Apa yang harus kita lakukan ketika ingin mengubah nilai dalam state?
+
+Jawaban :
+
+1. B
+2. B
+
+## Medium
+
+1. Apa yang harus kita lakukan ketika ingin mengubah nilai dalam state?
    A. Gunakan this.setState(newValue) (untuk class component) atau setValue(newValue) (untuk functional component).
    B. Gunakan this.state.value = newValue (untuk class component) atau value = newValue (untuk functional component).
    C. Tidak mungkin mengubah nilai dalam state.
@@ -16,6 +26,4 @@
 
 Jawaban :
 
-1. B
-2. B
-3. A
+1. A
