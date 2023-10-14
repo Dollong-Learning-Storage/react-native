@@ -8,10 +8,5 @@ Pada lesson ini kamu diharapkan mampu memahami dan menggunakan Event Handling ya
 
 ## Topics
 
-• View
-• Text
-• Image
-• Input
-• Button & Touchable Opacity
-• ScrollView
-• FlatList
+• onChange
+• onPress

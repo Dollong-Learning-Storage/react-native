@@ -19,15 +19,10 @@ Jawaban:
 ## Medium (10 Poin)
 
 1. Apa perbedaan utama antara komponen kelas dan komponen fungsional dalam React Native?
-A. Komponen kelas tidak dapat memiliki metode khusus, sedangkan komponen fungsional dapat.
-B. Komponen fungsional tidak dapat menerima prop, sedangkan komponen kelas dapat.
-C. Komponen kelas dapat memiliki state, sedangkan komponen fungsional tidak.
-D. Tidak ada perbedaan antara komponen kelas dan komponen fungsional.
-<!-- 2. Bagaimana Anda mengakses prop dalam sebuah komponen kelas?
-   A. this.props.key
-   B. props.key
-   C. this.key
-   D. key -->
+   A. Komponen kelas tidak dapat memiliki metode khusus, sedangkan komponen fungsional dapat.
+   B. Komponen fungsional tidak dapat menerima prop, sedangkan komponen kelas dapat.
+   C. Komponen kelas dapat memiliki state, sedangkan komponen fungsional tidak.
+   D. Tidak ada perbedaan antara komponen kelas dan komponen fungsional.
 
 ```jsx
 class MyComponent extends Component {
@@ -37,7 +32,7 @@ class MyComponent extends Component {
 }
 ```
 
-2. Manakah di antara opsi berikut yang menunjukkan cara menggunakan prop dalam sebuah komponen kelas?
+1. Manakah di antara opsi berikut yang menunjukkan cara menggunakan prop dalam sebuah komponen kelas?
 
 A. this.data
 B. props.data

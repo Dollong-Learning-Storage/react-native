@@ -11,4 +11,3 @@ Pada lesson ini kamu diharapkan mampu memahami apa itu React Native, cara mengin
 
 • Apa itu React Native
 • Instalasi JDK dan Android Studio
-• React JS vs React Native

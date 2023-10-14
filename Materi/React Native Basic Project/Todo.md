@@ -1,6 +1,6 @@
 ## Topik
 
-Membuat aplikasi Notes
+Membuat aplikasi Todos
 
 ## Tujuan
 
@@ -16,7 +16,7 @@ Mekanisme Pengerjaan dan Pengumpulan Tugas
 
 Guide
 
-[Link Tutorial](https://www.loom.com/share/c93c11c4a7fc4ad683c8ad8a1d412287?sid=0b135981-8c72-49cb-bcc0-93e727b19c59)
+[Link Tutorial](https://www.loom.com/share/afad679df548422290bf96543e6ef014?sid=8e93bbf2-baf4-4488-8d01-269d4d5d5c83)
 
 <!-- - Install ReactNative dengan cara yang sudah sempat di jelaskan di Intro to React Native
 - Buat Folder /components, /screens
