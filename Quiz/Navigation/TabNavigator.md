@@ -11,6 +11,11 @@
    C. Bilah untuk mengatur ukuran font teks
    D. Bilah untuk menampilkan notifikasi kepada pengguna
 
+Jawaban:
+
+1. C
+2. B
+
 ## Medium
 
 1. Bagaimana cara menambahkan ikon (icons) ke tab dalam TabNavigator di React Native?
@@ -24,6 +29,11 @@
    C. StackNavigator hanya bisa menampilkan satu halaman pada satu waktu, sementara TabNavigator dapat menampilkan beberapa halaman sekaligus.
    D. TabNavigator memberikan navigasi tanpa tanda tab-bar, yang memberi lebih banyak ruang layar untuk konten aplikasi.
 
+Jawaban:
+
+1. A
+2. B
+
 ## Intermediate - 15 Poin
 
 1. Bagaimana Anda akan mengatasi masalah penumpukan (overlap) konten di dalam tab saat penggunaan TabNavigator?
@@ -33,9 +43,14 @@
    D. Dengan menggunakan properti flex pada konten tab dan tab-bar
 2. Jelaskan perbedaan antara bottom tab navigator dan top tab navigator dalam konteks desain antarmuka pengguna (UI/UX).
    A. Bottom tab navigator menempatkan tab-bar di bagian atas layar, sedangkan top tab navigator menempatkan tab-bar di bagian bawah layar.
-   B. Bottom tab navigator memudahkan penggunaan satu tangan karena dapat diakses dengan ibu jari, sedangkan top tab navigator membutuhkan kedua tangan untuk mengaksesnya.
+   B. Bottom tab navigator memberikan kesan visual yang lebih menarik, sementara top tab navigator memberikan tata letak yang lebih sederhana dan intuitif.
    C. Bottom tab navigator cocok untuk aplikasi dengan navigasi bertingkat, sementara top tab navigator cocok untuk aplikasi dengan fokus pada satu tugas atau fungsi.
-   D. Bottom tab navigator memberikan kesan visual yang lebih menarik, sementara top tab navigator memberikan tata letak yang lebih sederhana dan intuitif.
+   D. Bottom tab navigator memudahkan penggunaan satu tangan karena dapat diakses dengan ibu jari, sedangkan top tab navigator membutuhkan kedua tangan untuk mengaksesnya.
+
+Jawaban:
+
+1. A
+2. D
 
 ## Advance - 20 Poin
 
@@ -49,3 +64,8 @@
    B. Tidak, karena jumlah tab seharusnya tidak mempengaruhi pengalaman pengguna asalkan desain tab-bar yang baik diterapkan.
    C. Ya, karena terlalu banyak tab dapat mengakibatkan kebingungan pengguna dan membuat aplikasi terasa berat.
    D. Tidak, karena semakin banyak tab akan semakin memperkaya pengalaman pengguna dan memberi mereka lebih banyak opsi untuk memilih.
+
+Jawaban:
+
+1. B
+2. A
