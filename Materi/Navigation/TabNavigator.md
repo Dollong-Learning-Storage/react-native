@@ -1,6 +1,7 @@
 # TabNavigator
 
-TabNavigator adalah salah satu jenis navigator yang populer dalam pengembangan aplikasi React Native. Ini memungkinkan Kamu untuk membuat navigasi tab yang memungkinkan pengguna berpindah antara berbagai bagian utama aplikasi dengan cepat dan mudah. Dalam tulisan ini, kita akan menjelaskan secara mendalam tentang TabNavigator dan bagaimana Kamu dapat menggunakannya dalam pengembangan aplikasi React Native.
+![Tab Navigator](../../Assets/Materi/Navigation/tab-navigator.png)
+TabNavigator adalah salah satu jenis navigator yang populer dalam pengembangan aplikasi React Native. Ini memungkinkan Kamu untuk membuat navigasi tab yang memungkinkan pengguna berpindah antara berbagai bagian utama aplikasi dengan cepat dan mudah. Dalam materi kali ini, kita akan menjelaskan secara mendalam tentang TabNavigator dan bagaimana Kamu dapat menggunakannya dalam pengembangan aplikasi React Native.
 
 ## Apa itu TabNavigator?
 

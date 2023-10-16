@@ -25,14 +25,12 @@ atau menggunakan yarn
 yarn add @react-native-async-storage/async-storage
 ```
 
-### Menyimpan Data
-
-Untuk menyimpan data, gunakan fungsi setItem():
+Untuk menyimpan data, kita bisa gunakan fungsi setItem():
 
 ```jsx
 const simpanData = async () => {
   try {
-    await AsyncStorage.setItem("kunci", "nilai");
+    await AsyncStorage.setItem("key", "nilai");
     console.log("Data berhasil disimpan!");
   } catch (error) {
     console.error("Gagal menyimpan data: ", error);
@@ -40,18 +38,16 @@ const simpanData = async () => {
 };
 ```
 
-### Mengambil Data
-
 Untuk mengambil data, gunakan fungsi getItem():
 
 ```jsx
 const ambilData = async () => {
   try {
-    const nilai = await AsyncStorage.getItem("kunci");
+    const nilai = await AsyncStorage.getItem("key");
     if (nilai !== null) {
       console.log("Nilai yang diambil dari AsyncStorage: ", nilai);
     } else {
-      console.log("Tidak ada data dengan kunci tersebut.");
+      console.log("Tidak ada data dengan key tersebut.");
     }
   } catch (error) {
     console.error("Gagal mengambil data: ", error);

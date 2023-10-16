@@ -1,5 +1,7 @@
 # StackNavigator
 
+![Stack Navigator](../../Assets/Materi/Navigation/stack-navigator.png)
+
 StackNavigator adalah salah satu jenis navigator yang paling umum digunakan dalam pengembangan aplikasi React Native. Ini memungkinkan Kamu untuk membuat navigasi tumpukan (stack navigation) yang mengatur layar-layar dalam tumpukan, sehingga pengguna dapat berpindah antara layar-layar ini dengan mudah dan dapat kembali ke layar sebelumnya. Dalam tulisan ini, kita akan menjelaskan secara mendalam tentang StackNavigator dan bagaimana Kamu dapat menggunakannya dalam pengembangan aplikasi React Native.
 
 ## Apa itu StackNavigator?

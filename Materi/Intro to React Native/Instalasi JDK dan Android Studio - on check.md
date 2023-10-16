@@ -1,4 +1,19 @@
-Sebelum kamu memulai pengembangan aplikasi React Native, langkah pertama yang perlu kamu lakukan adalah menginstal JDK (Java Development Kit) dan Android Studio. JDK diperlukan untuk menjalankan proses kompilasi dan eksekusi aplikasi React Native, sedangkan Android Studio digunakan untuk mengelola lingkungan pengembangan Android serta menyediakan emulator untuk menjalankan aplikasi pada berbagai perangkat virtual.
+Ada dua cara untuk mengembangkan aplikasi React Native, yaitu dengan online IDE seperti Snack Expo dan menggunakan emulator sendiri.
+
+## Snack Expo
+
+Snack Expo merupakan online Editor yang juga memungkinkan kamu melihat preview dari aplikasi kamu langsung tanpa perlu menggunakan emulator,
+
+Kamu hanya perlu mengakses halaman ini, [Snack Expo](https://snack.expo.dev).
+![Init React](<../../Assets/Materi/Intro to React Native/expo-snack-preview.png>).
+
+Ketika kamu sudah mengakses halaman snack expo maka kamu akan di diberikan code editor juga emulator nya yang bisa langsung kamu pakai. Gimana? Mudah bukan!
+
+## Android Studio
+
+Cara Lain yang bisa kamu gunakan untuk mengembangkan aplikasi React Native kamu ialah dengan menggunakan emulator punya kamu sendiri atau Android Studio secara lokal
+
+Langkah pertama yang perlu kamu lakukan adalah menginstal JDK (Java Development Kit) dan Android Studio. JDK diperlukan untuk menjalankan proses kompilasi dan eksekusi aplikasi React Native, sedangkan Android Studio digunakan untuk mengelola lingkungan pengembangan Android serta menyediakan emulator untuk menjalankan aplikasi pada berbagai perangkat virtual.
 
 Link instalasi
 [https://reactnative.dev/docs/environment-setup?platform=android](https://reactnative.dev/docs/environment-setup?platform=android)
