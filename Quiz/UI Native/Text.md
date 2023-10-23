@@ -1,3 +1,5 @@
+## Easy - 5 poin
+
 1. Apa yang bisa Kamu lakukan dengan komponen Text dalam React Native?
    a. Menampilkan teks saja
    b. Menambahkan efek animasi
@@ -20,7 +22,27 @@
    d. Karena komponen <Text> membuat teks dapat diubah warnanya secara dinamis.
 
 **Jawaban:**
-a. Menampilkan teks saja
-c. Aplikasi akan menghasilkan pesan error atau crash.
-c. Membungkus teks dengan komponen <Text>.
-c. Karena komponen <Text> diperlukan untuk mengelola teks dengan benar sesuai dengan sistem operasi dan perangkat yang berbeda.
+
+1. A
+2. C
+3. C
+4. C
+
+## Medium - 10 Poin :
+
+1. Bagaimana cara menampilkan teks dengan format cetak tebal (bold) dalam komponen Text?
+   A. Menggunakan properti fontWeight: 'bold' dalam properti style.
+   B. Menggunakan properti textStyle: 'bold' dalam properti style.
+   C. Menggunakan tag <Bold> di sekitar teks yang akan diformat cetak tebal.
+   D. Tidak mungkin menampilkan teks dengan format cetak tebal dalam komponen Text.
+2. Apakah akan error ketika menjalankan kode di bawah?
+   A. Tidak, kode tersebut akan berfungsi dengan baik.
+   B. Kode tersebut memiliki kesalahan sintaks pada bagian <View>Halo dunia</View>.
+   C. Kode tersebut memiliki kesalahan dalam properti fontSize pada komponen Text.
+   D. Kode tersebut memiliki kesalahan dalam deklarasi variabel styles.
+   Jawaban:
+
+Jawaban :
+
+1. A
+2. A

@@ -41,7 +41,7 @@ const MyComponent = () => {
    B. navigation.go(screenName)
    C. navigation.navigate(screenName)
    D. navigation.push(screenName)
-2. Kapan sebaiknya Anda menggunakan useNavigation daripada properti navigation yang diteruskan dari komponen induk?
+2. Kapan sebaiknya Kamu menggunakan useNavigation daripada properti navigation yang diteruskan dari komponen induk?
    A. Saat komponen membutuhkan properti tambahan dari navigasi
    B. Saat komponen ingin mengakses riwayat navigasi secara langsung
    C. Saat komponen memiliki lebih dari satu objek navigasi
@@ -54,12 +54,12 @@ Jawaban:
 
 ## Intermediate - 15 Poin (Analyze):
 
-1. Jelaskan perbedaan antara useNavigation dan useRoute hooks dalam React Navigation. Kapan sebaiknya Anda menggunakan masing-masing hook?
+1. Jelaskan perbedaan antara useNavigation dan useRoute hooks dalam React Navigation. Kapan sebaiknya Kamu menggunakan masing-masing hook?
    A. useNavigation digunakan untuk navigasi antar layar, sedangkan useRoute digunakan untuk mendapatkan informasi tentang rute saat ini. Sebaiknya gunakan useNavigation saat memerlukan navigasi, dan useRoute saat memerlukan informasi rute seperti parameter.
    B. useNavigation digunakan untuk mengakses properti navigasi, sedangkan useRoute digunakan untuk mengakses parameter rute saat ini. Sebaiknya gunakan useNavigation saat memerlukan akses ke navigasi, dan useRoute saat memerlukan akses ke parameter rute.
    C. useNavigation dan useRoute adalah sama, hanya nama yang berbeda. Gunakan keduanya secara bergantian tergantung pada preferensi pengembang.
    D. useNavigation dan useRoute tidak ada perbedaan. Keduanya dapat digunakan untuk mengakses properti navigasi dan parameter rute.
-2. Bagaimana Anda akan menangani situasi ketika objek navigasi yang diambil menggunakan useNavigation adalah undefined dalam komponen fungsional? Berikan beberapa solusi.
+2. Bagaimana Kamu akan menangani situasi ketika objek navigasi yang diambil menggunakan useNavigation adalah undefined dalam komponen fungsional? Berikan beberapa solusi.
    A. Menggunakan hook useFocusEffect untuk memastikan objek navigasi selalu tersedia saat komponen mendapat fokus
    B. Menyembunyikan komponen sampai objek navigasi tersedia untuk penggunaan
    C. Menggunakan fungsi useCallback untuk menetapkan objek navigasi hanya jika objek tersebut tidak undefined

@@ -45,7 +45,7 @@ const MyComponent = () => {
    B. 'image.jpg'
    C. require('./image.jpg')
    D. 100x100
-2. Bagaimana Anda mengatur gambar placeholder untuk ditampilkan ketika gambar utama sedang dimuat?
+2. Bagaimana Kamu mengatur gambar placeholder untuk ditampilkan ketika gambar utama sedang dimuat?
    A. Menggunakan properti placeholder pada komponen Image
    B. Menggunakan komponen PlaceholderImage sebagai anak dari komponen Image
    C. Menggunakan properti defaultSource pada komponen Image
@@ -63,7 +63,7 @@ Jawaban:
    B. Gambar akan diperbesar hingga mengisi seluruh area komponen Image tanpa memperhatikan rasio aspek.
    C. Gambar akan ditampilkan dengan ukuran aslinya tanpa perubahan.
    D. Gambar akan diposisikan di tengah area komponen Image tanpa mengubah ukuran atau merusak rasio aspeknya.
-2. Bagaimana Anda menangani kesalahan (error) saat mengambil gambar dari sumber eksternal, seperti URL yang tidak valid?
+2. Bagaimana Kamu menangani kesalahan (error) saat mengambil gambar dari sumber eksternal, seperti URL yang tidak valid?
    A. Menyematkan gambar placeholder sebagai ganti gambar yang gagal dimuat.
    B. Menampilkan pesan kesalahan kepada pengguna dan memberikan opsi untuk mencoba memuat gambar lagi.
    C. Menyembunyikan komponen Image dan menampilkan pesan kesalahan secara terpisah.

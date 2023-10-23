@@ -24,7 +24,7 @@ Jawaban:
 
 ## Intermediate - 15 Poin (Analyze):
 
-1. Dalam situasi apa Anda seharusnya memilih AsyncStorage daripada Redux untuk manajemen state dalam aplikasi React Native?
+1. Dalam situasi apa Kamu seharusnya memilih AsyncStorage daripada Redux untuk manajemen state dalam aplikasi React Native?
    A. Ketika aplikasi memiliki banyak komponen
    B. Ketika aplikasi membutuhkan penyimpanan data yang persisten
    C. Ketika aplikasi memerlukan manajemen state yang kompleks

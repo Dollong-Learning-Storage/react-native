@@ -5,7 +5,7 @@
    B. Komponen yang ditulis dengan sintaks kelas ES6 dan memiliki state.
    C. Komponen yang hanya bisa digunakan dalam fungsi.
    D. Komponen yang hanya berisi fungsi.
-2. Bagaimana Anda mendeklarasikan state dalam sebuah komponen kelas?
+2. Bagaimana Kamu mendeklarasikan state dalam sebuah komponen kelas?
    A. this.state = { key: value };
    B. state = { key: value };
    C. setState({ key: value });
@@ -90,7 +90,7 @@ class CounterComponent extends Component {
 }
 ```
 
-1. Berikut adalah contoh kode untuk sebuah komponen kelas. Bagaimana Anda akan mengubah nilai state count ketika tombol Tambah ditekan? Berikan contoh kode dan jelaskan prosesnya.
+1. Berikut adalah contoh kode untuk sebuah komponen kelas. Bagaimana Kamu akan mengubah nilai state count ketika tombol Tambah ditekan? Berikan contoh kode dan jelaskan prosesnya.
 
 Jawaban :
 

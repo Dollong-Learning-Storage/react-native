@@ -18,7 +18,7 @@ Jawaban:
 
 ## Medium - 10 Poin (Application):
 
-1. Kapan sebaiknya Anda menggunakan StackNavigator dalam aplikasi React Native?
+1. Kapan sebaiknya Kamu menggunakan StackNavigator dalam aplikasi React Native?
    A. Ketika aplikasi memerlukan navigasi bertingkat dan tumpukan halaman
    B. Hanya ketika aplikasi memiliki satu halaman
    C. Ketika aplikasi memerlukan animasi yang kompleks
@@ -30,7 +30,7 @@ Jawaban:
 
 ## Intermediate - 15 Poin:
 
-1. Bagaimana Anda akan mengatasi masalah tumpang tindih (overlap) tata letak (layout) saat menggunakan StackNavigator dalam aplikasi React Native?
+1. Bagaimana Kamu akan mengatasi masalah tumpang tindih (overlap) tata letak (layout) saat menggunakan StackNavigator dalam aplikasi React Native?
    A. Dengan menggunakan animasi yang lebih kompleks untuk transisi antar-halaman
    B. Dengan mengatur properti tata letak (layout properties) setiap halaman secara hati-hati
    C. Dengan menggunakan fungsi bantuan tambahan dari pustaka eksternal

@@ -2,11 +2,11 @@
 
 Dari course sebelumnya kita sudah belajar bagaimana membuat routing. Pada course kali ini kalian akan belajar bagaimana berpindah dari satu halaman ke halaman lain melalui route yang sudah kita pelajari.
 
-useNavigation adalah salah satu fitur yang kuat dalam React Navigation yang memungkinkan Anda mengakses objek navigasi dari komponen mana pun dalam aplikasi React Native Anda. Kita akan membahas penggunaan useNavigation dan bagaimana fitur ini dapat membantu Anda dalam pengembangan aplikasi yang lebih canggih dengan navigasi yang lebih baik.
+useNavigation adalah salah satu fitur yang kuat dalam React Navigation yang memungkinkan Kamu mengakses objek navigasi dari komponen mana pun dalam aplikasi React Native Kamu. Kita akan membahas penggunaan useNavigation dan bagaimana fitur ini dapat membantu Kamu dalam pengembangan aplikasi yang lebih canggih dengan navigasi yang lebih baik.
 
 ## Apa itu useNavigation?
 
-useNavigation adalah hook yang disediakan oleh React Navigation. Ini memungkinkan Anda untuk mengakses objek navigasi yang terkait dengan komponen saat ini. Objek navigasi ini mengandung berbagai fungsi dan properti yang memungkinkan Anda untuk mengendalikan navigasi dalam aplikasi Anda.
+useNavigation adalah hook yang disediakan oleh React Navigation. Ini memungkinkan Kamu untuk mengakses objek navigasi yang terkait dengan komponen saat ini. Objek navigasi ini mengandung berbagai fungsi dan properti yang memungkinkan Kamu untuk mengendalikan navigasi dalam aplikasi Kamu.
 
 ## Menggunakan useNavigation
 

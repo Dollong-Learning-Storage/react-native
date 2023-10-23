@@ -18,7 +18,7 @@ Jawaban:
 
 ## Medium - 10 Poin:
 
-1. Bagaimana Anda mengimplementasikan navigasi stack dalam React Native menggunakan React Navigation?
+1. Bagaimana Kamu mengimplementasikan navigasi stack dalam React Native menggunakan React Navigation?
    A. createStackNavigator()
    B. createBottomTabNavigator()
    C. createSwitchNavigator()

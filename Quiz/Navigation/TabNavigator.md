@@ -36,7 +36,7 @@ Jawaban:
 
 ## Intermediate - 15 Poin
 
-1. Bagaimana Anda akan mengatasi masalah penumpukan (overlap) konten di dalam tab saat penggunaan TabNavigator?
+1. Bagaimana Kamu akan mengatasi masalah penumpukan (overlap) konten di dalam tab saat penggunaan TabNavigator?
    A. Dengan mengatur properti tata letak (layout properties) pada setiap komponen tab secara hati-hati
    B. Dengan menggunakan animasi transparansi pada konten tab yang tumpang tindih
    C. Dengan membatasi jumlah konten yang ditampilkan di dalam tab
@@ -54,12 +54,12 @@ Jawaban:
 
 ## Advance - 20 Poin
 
-1. Bagaimana Anda akan mengevaluasi pengalaman pengguna (user experience) dalam aplikasi React Native yang menggunakan TabNavigator untuk navigasi?
+1. Bagaimana Kamu akan mengevaluasi pengalaman pengguna (user experience) dalam aplikasi React Native yang menggunakan TabNavigator untuk navigasi?
    A. Dengan mengamati seberapa sering pengguna beralih antar tab
    B. Dengan melakukan survei kepada pengguna tentang kemudahan penggunaan dan kepuasan mereka terhadap navigasi tab-bar
    C. Dengan memeriksa waktu rata-rata yang dihabiskan pengguna di setiap halaman
    D. Dengan memonitor jumlah kesalahan (error) yang dilakukan pengguna saat menggunakan tab-bar
-2. Apakah ada batasan jumlah tab yang sebaiknya diterapkan dalam aplikasi yang menggunakan TabNavigator? Berikan alasan untuk jawaban Anda.
+2. Apakah ada batasan jumlah tab yang sebaiknya diterapkan dalam aplikasi yang menggunakan TabNavigator? Berikan alasan untuk jawaban Kamu.
    A. Ya, karena terlalu banyak tab dapat membuat tata letak (layout) menjadi berantakan dan sulit diakses oleh pengguna.
    B. Tidak, karena jumlah tab seharusnya tidak mempengaruhi pengalaman pengguna asalkan desain tab-bar yang baik diterapkan.
    C. Ya, karena terlalu banyak tab dapat mengakibatkan kebingungan pengguna dan membuat aplikasi terasa berat.

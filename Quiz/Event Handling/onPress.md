@@ -1,8 +1,16 @@
+## Easy - 5 poin
+
 1. Kapan menggunakan event onPress dalam pengembangan React Native?
    A. Untuk mengubah jenis elemen UI.
    B. Untuk mengatur posisi elemen UI.
    C. Untuk merespons tindakan pengguna terhadap elemen UI.
    D. Untuk mengatur tampilan latar belakang elemen UI.
+
+Jawaban :
+
+1. C
+
+## Medium - 10 poin
 
 ```jsx
 const FunctionalComponentExample = (props) => {
@@ -31,25 +39,40 @@ const FunctionalComponentExample = (props) => {
 };
 ```
 
-2. Pada contoh kode yang diberikan, kapan pesan "Component did update" akan ditampilkan di konsol?
+1. Pada contoh kode yang diberikan, kapan pesan "Component did update" akan ditampilkan di konsol?
    A. Setiap kali tombol "+" ditekan.
    B. Setiap kali tombol "-" ditekan.
    C. Saat komponen berfungsi pertama kali dimuat.
    D. Saat komponen diperbarui dengan perubahan properti tertentu.
-3. Pada contoh kode yang diberikan **pada nomor **2, kapan pesan "Component did mount" akan ditampilkan di konsol?
+2. Pada contoh kode yang diberikan **pada nomor **2, kapan pesan "Component did mount" akan ditampilkan di konsol?
    A. Setiap kali tombol "+" ditekan.
    B. Setiap kali tombol "-" ditekan.
    C. Saat komponen berfungsi pertama kali dimuat.
    D. Saat komponen dihapus dari tampilan.
-4. Pada contoh kode yang diberikan, apa yang akan terjadi ketika tombol "+" ditekan?
+3. Pada contoh kode yang diberikan, apa yang akan terjadi ketika tombol "+" ditekan?
    A. Elemen UI akan menghilang.
    B. Pesan akan muncul dalam jendela peringatan.
    C. Elemen UI akan berubah warna.
    D. Kode tertentu akan dihapus dari komponen.
+4. Bagaimana cara membuat tombol "Klik Saya" dengan menggunakan komponen TouchableOpacity dan menangani aksi ketika tombol tersebut ditekan?
+   A. <TouchableOpacity text="Klik Saya" onPress={this.handleClick} />
+   B.
+
+```jsx
+<TouchableOpacity>
+  <Text>Klik Saya</Text>
+</TouchableOpacity>
+
+handleClick() {
+}
+```
+
+C. <Button title="Klik Saya" onPress={this.handleClick} />
+D. <Button title="Klik Saya" onPress={this.handleClick} />
 
 Jawaban :
 
-1. C
-2. A
-3. C
-4. B
+1. A
+2. C
+3. B
+4. C
