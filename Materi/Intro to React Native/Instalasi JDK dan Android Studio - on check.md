@@ -30,7 +30,9 @@ Berikut adalah langkah-langkah untuk menginstal JDK dan Android Studio:
 
 1. **Unduh Android Studio**: Kunjungi situs resmi Android Studio ([Link](https://developer.android.com/studio)) dan unduh versi terbaru sesuai dengan sistem operasi kamu.
 2. **Instalasi**: Buka berkas installer Android Studio yang telah kamu unduh. Ikuti instruksi instalasi yang muncul. Pilih komponen yang ingin kamu instal, seperti Android SDK dan Android Virtual Device.
-3. **Konfigurasi Android SDK**: Setelah instalasi Android Studio selesai, kamu perlu mengonfigurasi lokasi Android SDK. Android SDK berisi berbagai alat dan komponen yang diperlukan untuk pengembangan aplikasi Android.
+3. **Konfigurasi Android SDK**: Setelah instalasi Android Studio selesai, kamu perlu mengonfigurasi lokasi Android SDK. Buka env seperti gambar di bawah
+   ![Init React](<../../Assets/Materi/Intro to React Native/install-react-native.png>)
+   Akan ada path untuk ANDROID_HOME, jika belum ada boleh tambahkan dan isi sesuai lokasi dari android sdk kamu
 4. **Instal Android Virtual Device (AVD)**: AVD adalah emulator Android yang dapat kamu gunakan untuk menguji aplikasi React Native pada berbagai perangkat virtual. Dalam Android Studio, buka "AVD Manager" dan ikuti petunjuk untuk membuat dan mengonfigurasi emulator sesuai preferensimu.
 
 ## Instalasi React Native
