@@ -1,3 +1,5 @@
+## TextInput
+
 Komponen Input merupakan salah satu komponen yang penting dalam pembangunan antarmuka pengguna dengan React Native. Komponen ini memungkinkan pengguna untuk memasukkan teks atau data lainnya melalui keyboard perangkat.
 
 **Fungsi dan Kegunaan:** Komponen Input memiliki beberapa kegunaan utama:

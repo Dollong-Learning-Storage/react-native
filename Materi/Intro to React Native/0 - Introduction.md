@@ -1,6 +1,6 @@
 # Introduction
 
-Pada lesson ini kamu diharapkan mampu memahami apa itu React Native, cara menginstall hingga menggunakan react native itu sendiri
+Pada lesson ini kamu diharapkan mampu memahami apa itu React Native, cara menginstall hingga menggunakan React Native itu sendiri
 
 ## Learning Objectives
 

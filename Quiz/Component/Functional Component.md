@@ -1,4 +1,4 @@
-## Easy (5 Poin)
+<!-- ## Easy (5 Poin)
 
 1. Apa yang membedakan antara functional component dan class component dalam React Native?
    A. Functional component menggunakan "class" keyword, sedangkan class component menggunakan "function" keyword.
@@ -139,4 +139,4 @@ Perbedaan utama adalah bahwa "Functional Component" adalah fungsi sederhana yang
 
 1. Dalam pengembangan aplikasi React Native yang kompleks, bagaimana Kamu akan mengorganisasi dan membagi "Functional Component" ke dalam berkas-berkas terpisah untuk meningkatkan skalabilitas dan keterbacaan kode?
 
-Jawaban: Menggunakan struktur direktori yang terorganisir, seperti folder components untuk menyimpan semua komponen, dan memecah komponen-komponen tersebut ke dalam berkas terpisah. Misalnya, components/Header.js untuk menyimpan komponen header.
+Jawaban: Menggunakan struktur direktori yang terorganisir, seperti folder components untuk menyimpan semua komponen, dan memecah komponen-komponen tersebut ke dalam berkas terpisah. Misalnya, components/Header.js untuk menyimpan komponen header. -->

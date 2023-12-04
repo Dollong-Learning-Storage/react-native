@@ -1,6 +1,5 @@
 Kamu mungkin pernah mengalami halaman dengan konten yang panjang, seperti daftar yang memerlukan scroll untuk melihat semua itemnya.
 
-**Fungsi dan Kegunaan:**
 ScrollView adalah komponen yang memberikanmu kemampuan untuk membuat tampilan yang bisa digulir (scrollable). Ini sangat berguna saat kamu memiliki konten yang tidak muat dalam satu layar, seperti daftar panjang atau halaman dengan konten bervariasi. ScrollView memastikan pengguna tetap dapat mengakses seluruh konten dengan menggulir layar.
 
 **Contoh :**

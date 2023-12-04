@@ -1,3 +1,7 @@
+Website yang dinamis dinilai dari konten yang update keunggulan nya yang dapat berubah dan menyesuaikan kontennya secara otomatis interaksi pengguna atau perubahan data lainnya
+
+Mari lihat gambar di bawah
+
 Dalam React Native, state adalah cara untuk menyimpan dan mengelola data di komponen. State memungkinkan komponen Kamu berinteraksi dengan data dan merespons perubahan data tersebut.
 
 Untuk membuat state di dalam sebuah komponen, kamu perlu menggunakan hook `useState` (dalam functional component) atau mendefinisikan `this.state` (dalam class component).

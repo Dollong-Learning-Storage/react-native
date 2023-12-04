@@ -1,4 +1,4 @@
-## Easy - 5 poin
+<!-- ## Easy - 5 poin
 
 1. Apa yang bisa Kamu lakukan dengan komponen Text dalam React Native?
    a. Menampilkan teks saja
@@ -45,4 +45,4 @@
 Jawaban :
 
 1. A
-2. A
+2. A -->
