@@ -15,4 +15,3 @@ Pada lesson ini kamu diharapkan mampu memahami dan menggunakan beberapa cara unt
 
 • Inline Style
 • StyleSheet
-• Flexbox

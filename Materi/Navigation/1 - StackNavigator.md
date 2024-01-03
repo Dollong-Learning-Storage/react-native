@@ -10,7 +10,7 @@ Routing, dalam konteks pengembangan aplikasi, adalah proses pengelolaan navigasi
 
 StackNavigator adalah salah satu jenis **navigator** (_yang ngatur routing_). StackNavigator memungkinkan Kamu untuk membuat **navigasi tumpukan** (_stack navigation_), yang akan mengatur tiap layar dalam tumpukan sehingga pengguna dapat berpindah antara layar-layar ini dengan mudah dan dapat kembali ke layar sebelumnya.
 
-Wah kayaknya keliatan rumit ya? mari lihat video di bawah untuk mempermudah pemahamanmu.
+Kayaknya keliatan rumit ya? mari lihat video di bawah untuk mempermudah pemahamanmu.
 
 ![Stack Navigator](../../Assets/Materi/Navigation/navigation-example.gif)
 
@@ -22,9 +22,9 @@ Apa yang terjadi sebenarnya?
 
 <!-- Kita melakukan navigasi dari Skilvul Course ke Detail Course dengan *Stack Navigator*. -->
 
-## Apa itu StackNavigator?
+<!-- ## Apa itu StackNavigator?
 
-StackNavigator adalah komponen utama dalam pustaka navigasi React Navigation yang memungkinkan Kamu untuk membuat tumpukan layar dalam aplikasi React Native. Ide dasarnya adalah setiap kali Kamu berpindah ke layar baru, layar tersebut ditumpuk di atas layar sebelumnya dalam urutan yang dapat diakses dengan mudah. Ini mirip dengan tumpukan buku, di mana Kamu dapat menambahkan buku baru (layar baru) di atas tumpukan dan menghapusnya dari tumpukan saat selesai membacanya.
+StackNavigator adalah komponen utama dalam pustaka navigasi React Navigation yang memungkinkan Kamu untuk membuat tumpukan layar dalam aplikasi React Native. Ide dasarnya adalah setiap kali Kamu berpindah ke layar baru, layar tersebut ditumpuk di atas layar sebelumnya dalam urutan yang dapat diakses dengan mudah. Ini mirip dengan tumpukan buku, di mana Kamu dapat menambahkan buku baru (layar baru) di atas tumpukan dan menghapusnya dari tumpukan saat selesai membacanya. -->
 
 <!-- ## Mengapa StackNavigator Penting?
 
