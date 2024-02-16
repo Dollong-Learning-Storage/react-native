@@ -62,7 +62,7 @@ const Program = () => (
 
 Gimana? lebih simpel bukan. Eitss tunggu dulu, kita masih butuh satu proses lagi untuk benar-benar yakin. Kode kita saat ini memang sudah cukup _modular dan reusable_ tapi hasilnya belum seperti yang kita inginkan di awal.
 
-![Result](result.png)
+![Result](../../Assets/Materi/Props/result.png)
 
 Melihat dari yang sudah di buat sepertinya sudah tepat, tapi konsep _modular_ memungkinkan component yang di buat di mungkinkan di beberapa case dan _future proof_. Kita tau bahwa yang serupa itu ada di **title** dan **list konten**, maka pada component `ListProgram` kita perlu memastikan `title` dan `konten` nya bisa sesuai dengan kebutuhan .
 

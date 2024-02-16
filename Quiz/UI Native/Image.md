@@ -1,3 +1,7 @@
+NOTES
+
+- masih ada beberapa yang sengaja tidak dimasukkan di lms, masih di pikirkan. terlalu banyak
+
 ## Easy - 5 Poin
 
 1. Apa kegunaan dari komponen Image dalam React Native?

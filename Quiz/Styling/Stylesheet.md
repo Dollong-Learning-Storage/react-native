@@ -6,10 +6,10 @@
    C. class={styles}
    D. styles={styles}
 2. Manakah di bawah ini yang digunakan untuk mengubah warna latar belakang?
-   A. backgroundColor: "#ffffff"
+   A. backgroundColor: #ffffff
    B. background-color: "#ffffff"
    C. bgColor: "#ffffff"
-   D. bg-color: "#ffffff"
+   D. backgroundColor: "#ffffff"
 3. Bagaimana cara mengimpor komponen StyleSheet dalam kode JavaScript React Native?
    A. import { Styles } from 'react-native';
    B. import { Stylesheet } from 'react-native';
@@ -19,7 +19,7 @@
 Jawaban :
 
 1. A
-2. A
+2. D
 3. D
 
 ## Medium - 10 Poin :

@@ -60,7 +60,7 @@ Alasan utama di balik ini adalah cara **React Native** membangun antarmuka pengg
 
 ## Medium (10 Poin):
 
-1. Bagaimana Kamu memperbaiki kesalahan saat mencoba menampilkan teks tanpa komponen <Text>?
+1. Bagaimana Kamu memperbaiki kesalahan saat mencoba menampilkan teks tanpa komponen <Text> ?
    - A. Menghapus seluruh teks tersebut.
    - B. Mengubah semua komponen <Text> menjadi <View>.
    - [x] C. Membungkus teks dengan komponen <Text>.
@@ -70,3 +70,8 @@ Alasan utama di balik ini adalah cara **React Native** membangun antarmuka pengg
    - B. Menggunakan properti textStyle: 'bold' dalam properti style.
    - C. Menggunakan tag <Bold> di sekitar teks yang akan diformat cetak tebal.
    - D. Tidak mungkin menampilkan teks dengan format cetak tebal dalam komponen Text.
+3. Apa yang akan terjadi jika Kamu mencoba untuk menampilkan teks tanpa menggunakan komponen <Text> dalam React Native?
+   - A. Teks akan ditampilkan dengan benar.
+   - B. Aplikasi akan mengabaikan teks tersebut.
+   - [x] C. Aplikasi akan menghasilkan pesan error atau crash.
+   - D. Teks akan muncul dengan style default.

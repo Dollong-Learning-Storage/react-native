@@ -1,3 +1,7 @@
+NOTES
+
+- soal easy nomor 2 perlu implementasi di materi jg
+
 ## Easy - 5 Poin
 
 1. Apa tujuan dari komponen TextInput dalam React Native?

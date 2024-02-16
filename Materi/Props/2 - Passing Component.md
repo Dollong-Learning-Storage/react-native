@@ -1,6 +1,6 @@
 # Passing Component
 
-![Alt text](passing-component.png)
+![Passing Component](../../Assets/Materi/Props/passing-component.png)
 
 Umumnya baik itu Website ataupun Aplikasi akan selalu ada _section_ yang konsisten. Seperti contoh di atas, Header selalu sama walaupun berpindah _screen_.
 

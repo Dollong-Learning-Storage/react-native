@@ -25,15 +25,13 @@ Jawaban :
 ## Intermediate (15 Poin)
 
 ```javascript
-<TouchableOpacity onPress={() => alert("Tombol ditekan!")}>
-  <Text>Tombol</Text>
-</TouchableOpacity>
+<TouchableOpacity title="Login" />
 ```
 
 1. Berikut adalah kode untuk membuat tombol dengan TouchableOpacity:
    Apakah kode tersebut akan berfungsi dengan benar?
    A. Ya, kode tersebut akan berfungsi dengan benar.
-   B. Tidak, kode tersebut tidak akan berfungsi dengan benar karena komponen TouchableOpacity tidak memiliki properti onPress.
+   B. Tidak, kode tersebut tidak akan berfungsi dengan benar karena komponen TouchableOpacity tidak memiliki properti title.
    C. Tidak, kode tersebut tidak akan berfungsi dengan benar karena komponen Text tidak memiliki properti onPress.
    D. Tidak, kode tersebut tidak akan berfungsi dengan benar karena komponen TouchableOpacity dan komponen Text harus berada di dalam komponen View.
 
@@ -52,5 +50,5 @@ Jawaban :
 
 Jawaban :
 
-1. A. Ya, kode tersebut akan berfungsi dengan benar.
+1. B. Tidak, kode tersebut tidak akan berfungsi dengan benar karena komponen TouchableOpacity tidak memiliki properti title.
 2. A. Ya, kode tersebut akan berfungsi dengan benar.
