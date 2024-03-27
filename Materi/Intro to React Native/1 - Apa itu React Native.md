@@ -13,4 +13,12 @@ Ada dua cara dalam proses menggunakan dan develop aplikasi menggunakan React Nat
 
 Expo merupakan library sekaligus tool yang menyediakan cara mudah untuk develop aplikasi kita. Expo memangkas beberapa kompleksitas di React Native sehingga memudahkan penggunanya untuk bisa membangun aplikasi nya dengan mudah
 
-Pada lesson kita tentang **React Native Dasar**, kita hanya akan fokus ke cara dengan **React Native CLI**
+## Menginstall expo
+
+Pertama, jalankan perintah dibawah pada terminal kalian.
+
+```cmd
+npx create-expo-app --template
+```
+
+Pada lesson kita tentang **React Native Dasar**, kita hanya akan fokus ke cara dengan **Menggunakan Expo**
