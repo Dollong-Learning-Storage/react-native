@@ -4,7 +4,9 @@
 
 Functional Component merupakan salah satu cara membuat komponen dalam React Native yang digunakan untuk membangun antarmuka pengguna (UI).
 
-<iframe src="https://snack.expo.dev/@doltons/functional-component" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/functional-component" height="500" width="1500"></iframe>
+</div>
 
 Kita membuat nama component dengan _TitleCase_ yang di dalamnya me-_return_ sebuah **Elemen React**. Konsep ini sama dengan yang ada di materi **React JS**.
 
@@ -12,7 +14,9 @@ Kita membuat nama component dengan _TitleCase_ yang di dalamnya me-_return_ sebu
 
 Cara lain membuat component adalah dengan bentuk _class_. Perlu di ingat bahwa untuk jaman sekarang **sangat jarang** kalian menemui developer menggunakan bentuk Class Component ini.
 
-<iframe src="https://snack.expo.dev/@doltons/class-component" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/class-component" height="500" width="1500"></iframe>
+</div>
 
 Gimana? Ada terlihat perbedaan?. Keliatannya functional component lebih mudah di buat ya?
 

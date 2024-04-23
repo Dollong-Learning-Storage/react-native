@@ -2,7 +2,9 @@ Pada materi `onPress` sebelumnya, kita sudah berhasil membuat `<Button>` menjadi
 
 Berikut contoh yang di maksud:
 
-<iframe src="https://snack.expo.dev/@doltons/handle-onpress" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/handle-onpress" height="500" width="1500"></iframe>
+</div>
 
 Kalau kamu coba jalankan di `snack.expo` dan mencoba mengisi Input tidak ada yang terjadi. Ini dikarenakan kita sama sekali belum meng-_handle_ **event onChange**.
 
@@ -12,6 +14,6 @@ Event "onChange" adalah event yang terjadi ketika nilai suatu elemen berubah. Da
 
 Dalam TextInput, event "onChange" memungkinkan kita untuk mengakses nilai yang dimasukkan oleh pengguna dan menggunakannya dalam logika aplikasi. Berikut adalah contoh penggunaan "onChange" pada TextInput:
 
-<iframe src="https://snack.expo.dev/@doltons/onchange" height="500" width="100%"></iframe>
+<iframe src="https://snack.expo.dev/@doltons/onchange" height="500" width="1500"></iframe>
 
 Dalam contoh ini, "onChangeText" menerima fungsi "handleInputChange", yang akan dijalankan setiap kali nilai dalam TextInput berubah. Fungsi tersebut kemudian mengubah state "inputValue", dan nilai ini ditampilkan di bawah TextInput. -->

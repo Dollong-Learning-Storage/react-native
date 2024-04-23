@@ -1,6 +1,8 @@
 Kemarin kita sudah meng-_init_ routing kita dengan _Stack Navigation_. Tentu, kurang komplit kalau belum bisa melakukan _navigasi_ nya.
 
-<iframe src="https://snack.expo.dev/@doltons/stack-navigation" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/stack-navigation" height="500" width="1500"></iframe>
+</div>
 
 # Navigate
 

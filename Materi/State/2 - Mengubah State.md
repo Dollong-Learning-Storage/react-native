@@ -14,7 +14,9 @@ setState("update data");
 
 Mari lihat contoh di bawah
 
-<iframe src="https://snack.expo.dev/@doltons/setstate" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/setstate" height="500" width="1500"></iframe>
+</div>
 
 Pada contoh tersebut kita mencoba _update_ `state` count yang sudah kita buat pada topik sebelumnya. Kemarin kita menggunakan _state count_ dan ketika perlu di update kita bisa menggunakan setState.
 

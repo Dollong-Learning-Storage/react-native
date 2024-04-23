@@ -47,7 +47,9 @@ _props children_ sederhananya adalah apapun yang kalian letakkan di dalam suatu 
 
 Mari lihat implementasinya:
 
-<iframe src="https://snack.expo.dev/@doltons/props-component" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/props-component" height="500" width="1500"></iframe>
+</div>
 
 Perhatikan penggunaan `<MainLayout>` di `SkilpathScreen`. Sebelumnya kita membuat `MainLayout` yang akan menerima children dengan meletakkan `{props.children}` pas di bawah header. Maka apapun component yang menjadi _child_ dari `SkilpathScreen` akan di letakkan di posisi yang sama yaitu di bawah header.
 
@@ -92,7 +94,7 @@ Passing component adalah ketika kita mengirimkan suatu komponen sebagai nilai pr
 
 **Contoh Kode:**
 
-<iframe src="https://snack.expo.dev/@doltons/props-component" height="500" width="100%"></iframe>
+<iframe src="https://snack.expo.dev/@doltons/props-component" height="500" width="1500"></iframe>
 
 Misalkan kita memiliki komponen `Header` yang akan ditampilkan di beberapa layar yang berbeda:
 

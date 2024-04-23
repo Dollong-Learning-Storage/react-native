@@ -4,7 +4,9 @@
 
 Komponen Text adalah salah satu komponen dasar dalam React Native yang digunakan untuk menampilkan teks di antarmuka pengguna. Kamu dapat menggunakan komponen Text untuk menampilkan berbagai pesan, judul, paragraf, dan lainnya
 
-<iframe src="https://snack.expo.dev/@doltons/text-component" height="500" width="100%" title="Text Example"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/text-component" height="500" width="1500" title="Text Example"></iframe>
+</div>
 
 <!-- ```jsx
 import React from "react";

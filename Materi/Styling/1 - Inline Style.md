@@ -20,7 +20,9 @@ const App = () => {
 
 Di atas merupakan component biasa yang ada `view` sebagai container dan `text`. Jika kita ingin menghiasi text nya menjadi berwarna biru dan memiliki sedikit ruang misalnya. Kita bisa membuat seperti di bawah
 
-<iframe src="https://snack.expo.dev/@doltons/inline-style" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/inline-style" height="500" width="1500"></iframe>
+</div>
 
 Mudah bukan? sangatlah mudah dan langkah yang efisien jika kamu ingin menghiasi component kamu **apabila style yang di tambahkan hanya sedikit**.
 

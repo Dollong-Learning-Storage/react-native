@@ -12,11 +12,15 @@ Di website kita mempunya _tag_ `<button>` yang berperilaku sebagai component int
 
 Contoh `<Button>`:
 
-<iframe src="https://snack.expo.dev/@doltons/button" height="500" width="100%" title="Button and TouchableOpacity Example"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/button" height="500" width="1500" title="Button and TouchableOpacity Example"></iframe>
+</div>
 
 Contoh `<TouchableOpacity>`:
 
-<iframe src="https://snack.expo.dev/@doltons/touchableopacity" height="500" width="100%" title="Button and TouchableOpacity Example"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/touchableopacity" height="500" width="1500" title="Button and TouchableOpacity Example"></iframe>
+</div>
 
 Kalau di perhatikan keduanya sama ya?
 
@@ -38,7 +42,7 @@ TouchableOpacity adalah komponen React Native yang digunakan untuk membuat area 
 
 **Contoh Kode Button dan TouchableOpacity:**
 
-<iframe src="https://snack.expo.dev/@doltons/touchableopacity" height="500" width="100%" title="Button and TouchableOpacity Example"></iframe>
+<iframe src="https://snack.expo.dev/@doltons/touchableopacity" height="500" width="1500" title="Button and TouchableOpacity Example"></iframe>
 
 <br />
 

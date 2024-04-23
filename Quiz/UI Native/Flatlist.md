@@ -65,12 +65,9 @@ Jawaban:
 
    D.
 
-   ```jsx
-   <FlatList
-     items={products}
-     render={(product) => <Text>{product.name}</Text>}
-   />
-   ```
+```jsx
+<FlatList items={products} render={(product) => <Text>{product.name}</Text>} />
+```
 
 Jawaban:
 

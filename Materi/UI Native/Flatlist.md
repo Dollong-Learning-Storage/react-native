@@ -4,7 +4,9 @@ Dalam pengembangan aplikasi React Native, sering kali Kamu perlu menampilkan daf
 
 **Contoh Kode:**
 
-<iframe src="https://snack.expo.dev/@doltons/flatlist-component" height="500" width="100%" title="Flatlist Example"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/flatlist-component" height="500" width="1500" title="Flatlist Example"></iframe>
+</div>
 
 <!-- ```jsx
 import React from 'react';

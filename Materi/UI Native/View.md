@@ -12,7 +12,9 @@ Komponen `<View>` adalah komponen utama React Native yang digunakan untuk membun
 
 **Contoh Kode:**
 
-<iframe src="https://snack.expo.dev/@doltons/view-component" height="500" width="100%" title="View Example"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/view-component" height="500" width="1500" title="View Example"></iframe>
+</div>
 
 <!-- ```jsx
 import React from "react";

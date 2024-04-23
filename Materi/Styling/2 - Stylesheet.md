@@ -48,7 +48,9 @@ Contoh di atas merupakan cara menghiasi component kita dengan _StyleSheet_. Keli
 
 <!-- **Contoh penggunaan:**
 
-<iframe src="https://snack.expo.dev/@doltons/stylesheet-style" height="500" width="100%"></iframe> -->
+<div style="width: 800px;position:relative;overflow-x:auto">
+  <iframe src="https://snack.expo.dev/@doltons/props-component" height="500" width="1500"></iframe>
+</div>
 
 <!-- ```jsx
 import React from "react";

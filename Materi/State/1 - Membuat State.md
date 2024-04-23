@@ -11,7 +11,9 @@ Untuk membuat state di dalam sebuah komponen, kamu perlu menggunakan hook `useSt
 
 **Contoh Kode :**
 
-<iframe src="https://snack.expo.dev/@doltons/state" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/state" height="500" width="1500"></iframe>
+</div>
 
 Perhatikan pada bagian ini:
 

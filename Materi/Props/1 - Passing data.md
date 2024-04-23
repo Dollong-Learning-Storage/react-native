@@ -119,7 +119,7 @@ Mudah kan?. Materi berikutnya kamu akan belajar passing component
 
 <!-- **Contoh Penggunaan Props:**
 
-<iframe src="https://snack.expo.dev/@doltons/props-data" height="500" width="100%"></iframe>
+<iframe src="https://snack.expo.dev/@doltons/props-data" height="500" width="1500"></iframe>
 
 ```jsx
 import React from "react";

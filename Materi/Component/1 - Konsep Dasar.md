@@ -13,7 +13,7 @@ Pada UI tersebut, terdapat setidaknya tiga UI yang paling terlihat, yaitu filter
 ![Init React](../../Assets/Materi/Component/component-explanation.png)
 
 <!--
-<iframe src="https://snack.expo.dev/@doltons/konsep-dasar-component" height="500" width="100%"></iframe> -->
+<iframe src="https://snack.expo.dev/@doltons/konsep-dasar-component" height="500" width="1500"></iframe> -->
 
 Setiap UI yang ada dalam satu card tersebut bisa dibuatkan _Component_. Kita membuat `<FilterCourse />` untuk UI Filter, `<CardImage />` untuk gambar, dan bagian yang menampung content nya di buatkan component bernama `<CardBody />`
 

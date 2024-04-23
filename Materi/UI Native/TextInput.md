@@ -10,7 +10,9 @@ Komponen Input merupakan salah satu komponen yang penting dalam pembangunan anta
 
 **Contoh Kode:**
 
-<iframe src="https://snack.expo.dev/@doltons/textinput-component" height="500" width="100%" title="TextInput Example"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/textinput-component" height="500" width="1500" title="TextInput Example"></iframe>
+</div>
 
 <!-- ```jsx
 import React, { useState } from 'react';

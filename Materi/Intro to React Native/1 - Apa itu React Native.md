@@ -4,7 +4,9 @@ Sebelumnya, pada materi **React JS** kita belajar bagaimana membuat web dinamis 
 
 Contoh Kode React Native:
 
-<iframe src="https://snack.expo.dev/@doltons/konsep-dasar-component" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/konsep-dasar-component" height="500" width="1500"></iframe>
+</div>
 
 Ada dua cara dalam proses menggunakan dan develop aplikasi menggunakan React Native:
 

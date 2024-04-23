@@ -4,7 +4,9 @@ ScrollView adalah komponen yang memberikanmu kemampuan untuk membuat tampilan ya
 
 **Contoh :**
 
-<iframe src="https://snack.expo.dev/@doltons/scrollview-component" height="500" width="100%" title="Scrollview Example"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/scrollview-component" height="500" width="1500" title="Scrollview Example"></iframe>
+</div>
 
 <!-- ```jsx
 import React from 'react';

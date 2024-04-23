@@ -6,7 +6,9 @@ Komponen Image digunakan dalam React Native untuk menampilkan gambar di antarmuk
 
 **Contoh Kode:**
 
-<iframe src="https://snack.expo.dev/@doltons/image-component" height="500" width="100%" title="Image Example"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/image-component" height="500" width="1500" title="Image Example"></iframe>
+</div>
 
 <!-- ```jsx
 import React from 'react';

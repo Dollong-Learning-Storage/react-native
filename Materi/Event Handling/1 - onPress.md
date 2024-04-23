@@ -27,7 +27,9 @@ Cara seperti ini sangat efisien untuk perintah yang hanya satu baris seperti con
 
 Cara kedua adalah dengan membuat function terpisah:
 
-<iframe src="https://snack.expo.dev/@doltons/handle-onpress" height="500" width="100%"></iframe>
+<div style="width: 800px;position:relative;overflow-x:auto">
+<iframe src="https://snack.expo.dev/@doltons/handle-onpress" height="500" width="1500"></iframe>
+</div>
 
 Cara seperti ini merupakan yang paling umum dan juga baik untuk di gunakan terutama ketika kalian memiliki banyak perintah dalam satu interaksi.
 
