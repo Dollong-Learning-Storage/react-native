@@ -1,32 +1,47 @@
 ## Easy
 
-1. Apa yang dimaksud dengan state dalam konteks React Native?  
-   A. State adalah representasi tampilan komponen.
-   B. State adalah data yang dapat berubah dalam komponen yang memengaruhi tampilan.
-   C. State adalah komponen yang dapat di-render ulang.
-   D. State adalah data yang bersifat tetap dalam komponen.
-2. Mengapa mengubah state penting dalam pengembangan aplikasi React Native?
-   A. Agar komponen memiliki nama.
-   B. Agar komponen bisa dirender satu kali saja.
-   C. Agar komponen bisa merespons perubahan data dan interaksi pengguna.
-   D. Agar komponen bisa memiliki properti.
-
-Jawaban :
-
-1. A
-2. C
-
-## Medium
-
 1. Apa yang terjadi setelah state berubah dalam komponen React Native?
    A. Komponen akan dirender ulang dengan data state yang baru.
    B. Komponen akan tetap dalam keadaan yang sama.
    C. Komponen akan otomatis keluar dari aplikasi.
    D. Komponen akan mengalami error.
+2. Manakah di bawah ini cara _mengupdate state_ yang benar?
+   A.
+
+   ```jsx
+   const [setCounter] = useState(1);
+
+   setCounter(2);
+   ```
+
+   B.
+
+   ```jsx
+   const [counter, setCounter] = useState(1);
+
+   setCounter(2);
+   ```
+
+   C.
+
+   ```jsx
+   const { counter, setCounter } = useState(1);
+
+   setCounter(2);
+   ```
+
+   D.
+
+   ```jsx
+   const setCounter = useState(1);
+
+   setCounter(2);
+   ```
 
 Jawaban:
 
 1. A
+2. B
 
 ## Intermediate
 

@@ -10,6 +10,11 @@
    B. useState
    C. setState
    D. state
+3. Manakah di bawah ini cara membuat state yang benar?
+   A. `const [state, setState] = useState("default value")`
+   B. `const state = useState("default value")`
+   C. `const state = "default value"`
+   D. `const { state, setState } = useState("default value")`
 
 Jawaban :
 
